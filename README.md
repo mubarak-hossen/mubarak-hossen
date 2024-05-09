@@ -1,16 +1,29 @@
-### Hi there 👋
+Hi there, I'm Mubarak Hossen! 👋
 
-<!--
-**mubarak-hossen/mubarak-hossen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer with a keen interest in web application development. Over the past 2 years, I've been diving deep into HTML, CSS, JavaScript, and React, honing my skills and building exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Skills: Languages: HTML, CSS, JavaScript
+
+Frameworks/Libraries: React
+
+Other Technologies: Node.js or express.js
+
+Projects: Here are some of the projects I've worked on:
+
+Project 1 core-js
+
+Project 2 React-Project
+
+Project 3 DSA-Tutorials
+
+Get in Touch:
+
+LinkedIn: https://github.com/mdwad
+
+Email: programmer.m.hossen@gmail.com
+
+Feel free to explore my repositories and reach out if you'd like to collaborate on something cool!
+
+Feel free to customize this template with your own information, projects, and links. Let me know if you need further assistance!
